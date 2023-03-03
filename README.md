@@ -1,1 +1,1 @@
-# 2nd-team - Algorithms-and-Big-Data-in-Chemistry-and-Materials-
+# 2nd team - Algorithms and Big Data in Chemistry and Materials
